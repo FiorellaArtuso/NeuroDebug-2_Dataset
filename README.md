@@ -3,7 +3,7 @@ This repository contains the dataset for NeuroDebug-2: a framework to idenitfy d
 
 # Dataset Description
 You can find four directories:
-- [unlabelled_traces](https://drive.google.com/drive/folders/1Rrsq7dscfJflIXzMoOilJrqXH4ztPBIO?usp=sharing): it contains train and validation source traces (train_slnet.csv and val_slnet.csv) and train and validation asm-source mappings (train_mapnet.csv and val_mapnet.csv).
+- [unlabelled_traces](https://drive.google.com/drive/folders/1Rrsq7dscfJflIXzMoOilJrqXH4ztPBIO?usp=sharing): it contains train and validation source traces (slnet/train_slnet.csv and slnet/val_slnet.csv) and train and validation asm-source mappings (mapnet/train_mapnet.csv and mapnet/val_mapnet.csv).
 -  [synthetic_bugs_traces](https://drive.google.com/drive/folders/1ESYhab5W0ujqJLuQFe_QW63Oqe9dgKMJ?usp=sharing): it contains synthetic-bugged and not bugged source traces (slnet.csv) and asm-source mappings (mapnet.csv) that we used to test our network.
 - [real_bugs_traces](https://drive.google.com/drive/folders/1FAY_uiNi3j3MXxzb1goTdXLnpJLPgv1Y?usp=sharing): it contains real-bugged and not bugged source traces (slnet.csv) and asm-source mappings (mapnet.csv) that we used to test our network.
 - [bugs_discovery_traces](https://drive.google.com/drive/folders/1VxNkEnFvHgSKpEJ-aOIKQApQB-FYj4m4?usp=sharing): it contains  source traces (slnet.csv) and asm-source mappings (mapnet.csv) that we used to discover new bugs.
