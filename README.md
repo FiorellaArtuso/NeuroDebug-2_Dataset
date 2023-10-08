@@ -1,5 +1,17 @@
-# NeuroDebug-2_Dataset
+# NeuroDebug-2_Dataset - Debugging Debug Information With Neural Networks
 This repository contains the dataset for NeuroDebug-2: a framework to idenitfy debug information bugs in llvm compiler. You can find our dataset [here](https://drive.google.com/drive/folders/1lEu7vHqIlgBpOe3WKC1a2cH769CQBudo?usp=sharing).
+
+If you use this dataset please cite our Paper.
+
+> @article{NeuroDebug2,
+  author={Artuso, Fiorella and Di Luna, Giuseppe Antonio and Querzoni, Leonardo},
+  journal={IEEE Access}, 
+  title={Debugging Debug Information With Neural Networks}, 
+  year={2022},
+  volume={10},
+  number={},
+  pages={54136-54148},
+  doi={10.1109/ACCESS.2022.3176617}}
 
 # Dataset Description
 You can find four directories:
